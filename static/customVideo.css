@@ -1,0 +1,9 @@
+.video-js .vjs-big-play-button {
+  height: 2em;
+  width: 2em;
+  line-height: 2em;
+  border-radius: 1em;
+}
+.vjs-custom-skin > .video-js .vjs-big-play-button {
+	margin-left: -1em;
+}

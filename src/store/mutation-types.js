@@ -1,0 +1,1 @@
+export const CHANGE_MEMBER_NAME = 'CHANGE_MEMBER_NAME'
