@@ -1,6 +1,6 @@
-# fatherday2018
+# vue-cli-demo
 
-> 2018 father day
+> demo
 
 ## Build Setup
 
